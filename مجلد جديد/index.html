@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task3</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Agbalumo&family=Roboto:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav class="navbar navbar-expand sticky-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">
+        <img src="yy.png" alt="" style="position: relative;
+        left: 21%;">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fa-thin fa-bars"></i>      </button>
+      <div class="collapse navbar-collapse" id="main">
+        <ul class="navbar-nav ">
+          <li class="nav-item">
+            <a class="nav-link" href="#"  style="color: white;">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#"  style="color: white;">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" style="color: white;">Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" style="color: white;">Portofolio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" style="color: white;">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="header1">
+    <h1><strong style="font-weight: bolder;
+      font-size: 200%;">Stylish Portfolio</strong></h1>
+    <p2 style="font-size: 31%;
+    padding-top: 3%;">A Free Bootstrap Theme by Start Bootstrap</p>
+    <div class="button1">Learn More</div>
+  </div>
+
+  <div class="header2"><h2><strong style="font-size: 90%;
+    font-weight: bolder;">Stylish Portfolio is the perfect theme for your next project!</strong></h2>
+  <div><p2 style="font-size: 50%;">This theme features a flexible, UX friendly sidebar menu and stock photos from our friends at <b><a href target="_blank">Unsplash !</a></b></p2>
+  </div>
+    <div class="button2 ">What We Offer</div>
+  </div>
+
+  <div class="header3">
+    <h3 style="color: #ecb807; font: weight 900px;">Services</h3>
+    <p><strong style="color: white; font-size: 92%; margin-top: -11px;">What We Offer</strong></p>
+
+    <div class="flex-container1">
+      <div><i class="fa-solid fa-mobile"></i>
+      
+      </div>
+      <div><i class="fa-regular fa-pen-to-square"></i></div>
+      <div><i class="fa-regular fa-thumbs-up"></i></div> 
+      <div><i class="fa-regular fa-circle-question"></i></div>
+    </div>
+
+    <div class="flex-container2">
+      <div><h4><strong style="color: white;
+        position: relative;
+        left: 15%;">Responsive</strong></h4>
+      <p style="font-size: 41%;
+      width: 444%;
+      position: relative;
+      right: 154%;
+      margin-top: -26%;
+      color: white;
+      opacity: 50%;">Looks great on any screen size!</p></div>
+
+
+      <div><h5><strong style="color: white;
+        position: relative;
+        left: 8%;
+        font-size: 118%;">Redesigned</strong></h5>
+         <p style="font-size: 35%;
+         /* padding: 30%; */
+         width: 444%;
+         position: relative;
+         right: 156%;
+         margin-top: -26%;
+         color: white;
+         opacity: 50%;">Freshly redesigned for Bootstrap5.</p>
+        </div>
+
+
+      <div style="margin-top: 1%;"><h6><strong style="color: white;
+        font-size: 163%;">Favorited</strong></h6> 
+        <p style="font-size: 37%;
+        /* padding: 30%; */
+        width: 444%;
+        position: relative;
+        right: 156%;
+        margin-top: -26%;
+        color: white;
+        opacity: 50%;">Millions of users  Start Bootstrap!</p>
+      </div>  
+
+
+      <div style="margin-top: -3%;
+      font-size: 72%;"><h7><strong style="font-size: 76%;
+    padding: 9%;
+    padding-bottom: 86%;
+    position: relative;
+    right: 10%;
+    color: white;">Qustion</strong></h7>
+        <p style="font-size: 33%;
+        /* padding: 30%; */
+        width: 444%;
+        position: relative;
+        right: 161%;
+        margin-top: -38%;
+        color: white;
+        opacity: 50%;">I mustache you a question...</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="header4">
+    <img src="oop.png" style="margin-top: -14%;" >
+    <h8 style="font-size: 3.5rem;
+    font-weight: 700;
+    display: block;
+    max-width: 30rem;
+    position: relative;left: 17%;">Welcome to your next website!</h8>
+    <div class="button4">Download now!</div>
+  </div>
+  
+  <div class="header5">
+    <h9 style="color: #ecb807;
+    font-weight: bolder;
+    font-size: 60%;">PORTFOLIO</h9>
+    <p><strong style="color: black; font-size: 146%;
+      padding-bottom: 5%;">Recent Projects</strong></p>
+    <div class="row"> 
+      <div class="column">
+        <img src="lh.jpg" style="width:200%">
+       <img src="pm.jpg" style="width:200%">
+         
+      </div>
+      
+      <div class="column">
+        <img src="ty.jpg" style="width:200%">
+        <img src="rf.jpg" style="width:200%">
+        
+      </div>
+  </div>
+
+
+</div>
+<div class="header6">
+  <h10><strong>The buttons below are impossible to resist...</strong></h10>
+  <div class="button5">Click me!</div>
+  <div class="button6">Look at me!</div>
+</div>
+<div class="map" id="Contact">
+  <img src="Google-Maps.webp" alt="">
+</div>
+
+<div class="header7">
+
+  <div class="flex-container3">
+    <div><i class="fa-brands fa-facebook"></i></div>
+    <div><i class="fa-brands fa-twitter"></i></div>
+    <div><i class="fa-brands fa-github"></i></div> 
+  </div>
+  <div class="flex-container4">
+    <ul>
+      <li style="position: relative;
+      left: 500%;
+      margin-top: 25%;">Terms</li>
+      <li style="position: relative;
+      left: 687%;
+      margin-top: -43%;">Privacy</li>
+    </ul>
+  </div>
+</div>
+</body>
+</html>
